@@ -1,0 +1,30 @@
+final Map<String, String> enUs = {
+  'msg_network_err': 'Network Error',
+  'msg_something_went_wrong': 'Something Went Wrong!',
+  "lbl_continue": "Continue",
+  "lbl_sign_in": "Sign In",
+  "msg_login_with_goog": "Login with Google",
+  "msg_login_with_face": "Login with Facebook",
+  "lbl_unitcool": "Unitcool",
+  "lbl_your_email": "Your Email",
+  "lbl_onboarding_a": "Onboarding A",
+  "msg_made_to_rock_yo": "Made to rock your mobile",
+  "lbl_next": "Next",
+  "msg_don_t_have_an_a": "Don’t have an account? Register",
+  "msg_check_your_app":
+      "Check your app's UI from the below demo screens of your app.",
+  "msg_lorem_ipsum_is":
+      "Lorem ipsum is a dummy text in advertising since lorem ipsum years",
+  "lbl_password": "Password",
+  "msg_edittextformate": "editTextFormated",
+  "lbl_or": "OR",
+  "msg_don_t_have_an_a2": "Don’t have an account?",
+  "msg_forgot_password": "Forgot Password?",
+  "lbl_previous": "Previous",
+  "lbl_loginone": "LoginOne",
+  "lbl_register": "Register",
+  "lbl_app_navigation": "App Navigation",
+  "lbl_logintwo": "LoginTwo",
+  "msg_sign_in_to_cont": "Sign in to continue",
+  "lbl_welcome": "Welcome "
+};
